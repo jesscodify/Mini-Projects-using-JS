@@ -12,4 +12,4 @@ The second project is a JavaScript program that prompts the user to enter a numb
 
 # 3: Convert Dollars to Rupees![screencapture-file-G-Coding-Bootcamp-JS-DAY2-practice-Convert-Dollars-to-Rupees-index-html-2023-07-14-16_52_35](https://github.com/jesscodify/Mini-Projects-using-JS/assets/93216297/b0d8cc0f-4e0b-4ff3-a174-7d1ed78e49e1)
 
-In the third project, a JavaScript program prompts the user to enter an amount in dollars. The program then converts the entered dollar amount to Indian Rupees using the conversion rate of 1 dollar = 74.5 rupees. Finally, it displays the converted amount to the user.
+In the third project, a JavaScript program prompts the user to enter an amount in dollars. The program then converts the entered dollar amount to Indian Rupees using the conversion rate of 1 dollar = 82.16 rupees. Finally, it displays the converted amount to the user.
